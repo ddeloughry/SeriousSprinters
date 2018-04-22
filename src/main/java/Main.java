@@ -7,5 +7,7 @@ public class Main {
         // CHECKSTYLE IGNORE check FOR NEXT 1 LINES
         Word word = new Word("Aeroplane");
         out.println(word.toString());
+		Word word2 = new Word("Jenkins");
+        out.println(word.toString());
     }
 }
